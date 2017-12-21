@@ -1,1 +1,2 @@
-Nieuwe text file.\
+Nieuwe text file.
+En nog een regel.
